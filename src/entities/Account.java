@@ -8,7 +8,6 @@ public class Account {
 	private Double balance;
 
 	public Account() {
-		super();
 	}
 
 	public Account(Long id, Double balance) {
